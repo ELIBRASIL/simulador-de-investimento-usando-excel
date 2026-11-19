@@ -2,6 +2,9 @@
 
 Ferramenta desenvolvida em Excel com foco em experiência do usuário (UX) e análise financeira, criada como parte da Formação de Análise de Dados com Excel e IA da DIO. O objetivo é simular APORTES mensais, projeção de patrimônio e distribuição de carteira em Fundos Imobiliários de forma automatizada e amigável.
 
+Link do simulador:
+[Investimento com Excel.xlsx](https://github.com/user-attachments/files/35091489/Investimento.com.Excel.xlsx)
+
 ---
 
 ## 🎯 1. As Perguntas de Negócio e Onde Cada Resposta Aparece
