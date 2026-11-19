@@ -60,12 +60,15 @@ Os percentuais foram estruturados em uma aba de apoio (`Planilha2`) contemplando
 
 ## 📸 Prints da Ferramenta Preenchida
 
-> \*Dica: Insira aqui capturas de tela da sua planilha preenchida demonstrando a mesma simulação alterando entre dois perfis diferentes (por exemplo, comparando o perfil Conservador e o Perfil Agressivo).\*
-
 * **Simulação - Perfil Conservador:**
-  *(Inserir print da tela)*
+  
+  <img width="657" height="1203" alt="image" src="https://github.com/user-attachments/assets/53b0cb2d-174c-4f87-9f9c-2e6067b29197" />
+
 * **Simulação - Perfil Agressivo:**
-  *(Inserir print da tela)*
+  
+ 
+  <img width="646" height="1211" alt="image" src="https://github.com/user-attachments/assets/fd1ea925-6e84-4754-88db-f1119b252ab3" />
+
 
 ---
 
